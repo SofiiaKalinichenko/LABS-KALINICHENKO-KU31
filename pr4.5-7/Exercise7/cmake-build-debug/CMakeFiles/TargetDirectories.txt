@@ -1,0 +1,3 @@
+C:/Users/UseR/OneDrive/Рабочий стол/Катя ОС/Pr4/Exercise7/cmake-build-debug/CMakeFiles/Exercise7.dir
+C:/Users/UseR/OneDrive/Рабочий стол/Катя ОС/Pr4/Exercise7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UseR/OneDrive/Рабочий стол/Катя ОС/Pr4/Exercise7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

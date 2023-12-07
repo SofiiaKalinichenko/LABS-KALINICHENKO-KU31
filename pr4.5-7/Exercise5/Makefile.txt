@@ -1,0 +1,2 @@
+Exercise5: main.c
+	gcc -o Exercise5 main.c
